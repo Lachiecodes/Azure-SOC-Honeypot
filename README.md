@@ -14,7 +14,7 @@ In this project, I build a mini honeynet in Azure and ingest log sources from va
 ## Technologies, Azure Components, and Regulations Employed
 - Azure Virtual Network (VNet)
 - Azure Network Security Groups (NSG)
-- Virtual Machines (1 Window VMs, 1 Linux VM)
+- Virtual Machines (1 Windows VM, 1 Linux VM)
 - Log Analytics Workspace with Kusto Query Language (KQL) Queries
 - Azure Key Vault for Secure Secrets Management
 - Azure Storage Account for Data Storage
