@@ -60,7 +60,7 @@ During the "AFTER" stage of the project, the environment was hardened and securi
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
 Start Time 2023-09-03 23:26:21 
-Stop Time 2023-00-04 23:26:21
+Stop Time 2023-09-04 23:26:21
 
 | Metric                   | Count
 | ------------------------ | -----
